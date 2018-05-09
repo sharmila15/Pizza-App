@@ -1,0 +1,5 @@
+C:\Users\shammi\documents\visual studio 2015\Projects\HtM\DBAccess\bin\Debug\DBAccess.dll
+C:\Users\shammi\documents\visual studio 2015\Projects\HtM\DBAccess\bin\Debug\DBAccess.pdb
+C:\Users\shammi\documents\visual studio 2015\Projects\HtM\DBAccess\obj\Debug\DBAccess.csprojResolveAssemblyReference.cache
+C:\Users\shammi\documents\visual studio 2015\Projects\HtM\DBAccess\obj\Debug\DBAccess.dll
+C:\Users\shammi\documents\visual studio 2015\Projects\HtM\DBAccess\obj\Debug\DBAccess.pdb
